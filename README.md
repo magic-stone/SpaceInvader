@@ -8,3 +8,7 @@ This is a space invader game. It contains one spaceship and four rows of invader
 - Functional programming design using Racket
 - Applying generic data definitions and predefined Higher Order Functions provided by Racket(map, filter, etc) for less code, less redundancy
 - Unit testing to ensure full functionality
+
+### How to play
+1. Download and install[Racket](https://racket-lang.org).
+2. Open the spaceship-update.rkt in racket, click run and enjoy!
